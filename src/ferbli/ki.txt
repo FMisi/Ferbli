@@ -1,0 +1,3 @@
+Kicsi girigáré: false
+Nagy girigáré: false
+Vannak: false
