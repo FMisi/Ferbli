@@ -1,3 +1,9 @@
 Kicsi girigáré: false
-Nagy girigáré: false
+Nagy girigáré: true
 Vannak: false
+Banda: false
+Aranyhármas: false
+Haromszoros: false
+Két ász: false
+Ferbli: false
+Szingli: false
